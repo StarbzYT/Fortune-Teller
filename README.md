@@ -1,3 +1,3 @@
 # Fortune-Teller
 its in the name
-[check it out](fortune-teller.surge.sh)
+[check it out](https://fortune-teller.surge.sh/)
